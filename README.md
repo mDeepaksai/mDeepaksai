@@ -28,6 +28,11 @@ Currently working on improving system design, backend optimization, and scalable
 ## 🌐 Connect with me
 
 <p align="left">
+
+<a href="mailto:mdeepaksai806@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/mDeepaksai" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -47,6 +52,7 @@ Currently working on improving system design, backend optimization, and scalable
 <a href="https://leetcode.com/veYM1g6V2u" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
