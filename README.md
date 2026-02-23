@@ -6,15 +6,22 @@
 
 ---
 
-- 🔭 I'm currently building **SmartClassroom**, an AI-powered lecture assistant that converts live audio into structured notes using FastAPI and MySQL with a responsive frontend.
+## 🚀 About Me
 
-- 🌱 I'm currently learning **Advanced React patterns, system design fundamentals, and backend optimization with SQLAlchemy.**
+I am a full-stack developer focused on building AI-powered web applications and automation systems.
 
-- 👯 I'm looking to collaborate on **AI automation tools, developer productivity systems, and real-time web applications.**
+I design backend systems using FastAPI and MySQL, build responsive frontends using HTML, CSS, JavaScript, and React, and integrate AI APIs to create practical SaaS-style products.
 
-- 💬 Ask me about **AI integrations, FastAPI backends, and building full-stack SaaS products from scratch.**
+Currently working on improving system design, backend optimization, and scalable application architecture.
 
-- 📫 Reach me at **mdeepaksai806@gmail.com**
+### Core Focus
+
+- Full-Stack Development  
+- Frontend Development (HTML, CSS, JavaScript, React)  
+- Backend Development with FastAPI  
+- SQL Database Design and Optimization  
+- AI Integration and Automation Workflows  
+- Building End-to-End SaaS Applications  
 
 ---
 
@@ -55,10 +62,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mDeepaksai&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mDeepaksai&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mDeepaksai&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mDeepaksai&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mDeepaksai&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=mDeepaksai&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
