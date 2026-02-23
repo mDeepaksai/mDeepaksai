@@ -1,16 +1,16 @@
-# Hi 👋, I'm Mallarpu deepak sai
+# Hi 👋, I'm Mallarpu Deepak Sai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mDeepaksai&label=Profile views&color=0e75b6&style=flat" alt="mDeepaksai" /> </p>
+<p align="left"> <img src="C:\Users\mdeep\Downloads\Black and Yellow Web Developer LinkedIn Banner (1).png" alt="mDeepaksai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mDeepaksai" alt="mDeepaksai" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mDeepaksai" alt="mDeepaksai" /></a> </p> -->
 
-- 🔭 I'm currently working on **I am currently working on SmartClassroom: a live lecture to auto-generate notes, utilizing a backend with FastAPI and MySQL, and a frontend using HTML, JavaScript, and CSS.**
+- 🔭 I'm currently working on **I am currently working on SmartClassroom: a live lecture to auto-generate notes, utilizing a backend with FastAPI and MySQL, and a frontend using HTML, JavaScript, and CSS
 
 - 🌱 I'm currently learning **Advanced React patterns, system design fundamentals, and backend optimization with SQLAlchemy.**
 
-- 👯 I'm looking to collaborate on **AI automation tools, developer productivity systems, and real time web applications.**
+- 👯 I'm looking to collaborate on **AI automation tools, developer productivity systems, and real-time web applications.**
 
-- 💬 Ask me about **AI integrations, FastAPI backends, and building full stack SaaS projects from scratch.**
+- 💬 Ask me about **AI integrations, FastAPI backends, and building full-stack SaaS projects from scratch.**
 
 - 📫 How to reach me **mdeepaksai806@gmail.com**
 
