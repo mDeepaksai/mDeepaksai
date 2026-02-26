@@ -8,19 +8,26 @@
 
 ## 🚀 About Me
 
-I am a full-stack developer focused on building AI-powered web applications and automation systems.
+I am a Full-Stack Developer focused on building scalable backend systems and real-world SaaS applications.
 
-I design backend systems using FastAPI and MySQL, build responsive frontends using HTML, CSS, JavaScript, and React, and integrate AI APIs to create practical SaaS-style products.
+I design backend systems using FastAPI and MySQL, build responsive frontends using HTML, CSS, JavaScript, and React, and integrate APIs to create automation-driven applications.
 
-Currently working on improving system design, backend optimization, and scalable application architecture.
+Currently improving:
+- System Design
+- Backend Optimization
+- Scalable Architecture
+- Clean Code & Best Practices
 
-### Core Focus
+---
+
+## 🔥 Core Focus
 
 - Full-Stack Development  
 - Frontend Development (HTML, CSS, JavaScript, React)  
 - Backend Development with FastAPI  
-- SQL Database Design and Optimization  
-- AI Integration and Automation Workflows  
+- SQL Database Design & Optimization  
+- API Development & Integration  
+- AI Integration & Automation Workflows  
 - Building End-to-End SaaS Applications  
 
 ---
@@ -60,18 +67,29 @@ Currently working on improving system design, backend optimization, and scalable
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,git,postman,firebase" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mDeepaksai&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mDeepaksai&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
-</p> -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mDeepaksai&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
+
+---
+
+## 📌 Current Goals
+
+- Mastering Full-Stack Development (Frontend + Backend Integration)
+- Building Advanced Frontend Applications with React & Modern UI Practices
+- Designing Scalable Backend Systems using FastAPI
+- Strengthening System Design & Database Architecture Skills
+- Improving Data Structures & Problem Solving for Product Companies
+- Building End-to-End SaaS Projects with Clean Architecture
+- Contributing to Open Source & Real-World Production Projects
+
+---
+
+⭐ Always open to collaboration on Full-Stack and Backend projects.
